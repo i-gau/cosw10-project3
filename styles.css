@@ -9,6 +9,9 @@ h1 {
 h2 {text-align: center;
 }
 
+.title-chap {
+    font-family: 'Tangerine', cursive;
+}
 .chapter-content {
     text-indent: 50px;
 }
