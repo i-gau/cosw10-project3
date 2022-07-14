@@ -1,11 +1,14 @@
-body {
+html {
     background-color: black;
-    background-image: url(backimg.png);
+    background-image: url(backimg.png) center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 80%;
+    background-size: cover;
+}
+body {
     font-family: 'Shippori Mincho B1', serif;
     font-size: 20px;
+    
 }
 h1 {
     text-align: center;
