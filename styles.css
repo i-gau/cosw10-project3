@@ -7,6 +7,8 @@ body {
     top: 0;
     font-family: 'Shippori Mincho B1', serif;
     font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 h1 {
     text-align: center;
