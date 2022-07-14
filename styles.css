@@ -1,5 +1,7 @@
 body {
     background-image: url(backimg2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Shippori Mincho B1', serif;
     font-size: 20px;
 }
