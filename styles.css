@@ -15,7 +15,7 @@ h1 {
 
 h2 {text-align: center;
     font-family: 'Tangerine', cursive;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .title-chap {
@@ -41,6 +41,11 @@ h2 {text-align: center;
 }
 #ch4-1, #ch4-2, #ch4-3, #ch4-4 {
     margin-top: 150px;
+    margin-bottom: 150px;
+    filter: sepia(100%);
+}
+#ch5-1 {
+    margin-top: 200px;
     margin-bottom: 150px;
     filter: sepia(100%);
 }
