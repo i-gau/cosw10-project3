@@ -19,6 +19,7 @@ body {
     float: left;
     padding: 15px;
     color: yellow;
+    font-family: 'Shippori Mincho B1', serif;
     font-size: 18px;
     width: 33%;
     text-align: center;
@@ -35,6 +36,12 @@ h2 {text-align: center;
 .title-chap {
     font-family: 'Tangerine', cursive;
     font-size: 70px;
+    color: yellow;
+    text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
 .chapter-content {
     text-indent: 50px;
@@ -76,8 +83,8 @@ h2 {text-align: center;
     border-radius: 10%;
 }
 #ch5-2, #ch5-3, #ch5-4, #ch5-5, #ch6-2, #ch6-3, #ch6-4, #ch6-5 {
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 200px;
+    margin-bottom: 200px;
     filter: sepia(100%);
     border-radius: 10%;
 }
