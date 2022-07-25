@@ -15,6 +15,14 @@ body {
     top: 0;
     width: 100%;
 }
+.navbar a {
+    float: left;
+    padding: 15px;
+    color: yellow;
+    font-size: 18px;
+    width: 33%;
+    text-align: center;
+}
 h1 {
     text-align: center;
 }
@@ -48,19 +56,26 @@ h2 {text-align: center;
 .quotes {
     text-align: center;
 }
-#ch4-1, #ch4-2, #ch4-3, #ch4-4 {
+#ch4-1 {
+    margin-top: 400px;
+    margin-bottom: 150px;
+    filter: sepia(100%);
+    border-radius: 10%;
+}
+
+#ch4-2, #ch4-3, #ch4-4 {
     margin-top: 150px;
     margin-bottom: 150px;
     filter: sepia(100%);
     border-radius: 10%;
 }
-#ch5-1 {
+#ch5-1, #ch6-1 {
     margin-top: 500px;
     margin-bottom: 150px;
     filter: sepia(100%);
     border-radius: 10%;
 }
-#ch5-2, #ch5-3, #ch5-4, #ch5-5 {
+#ch5-2, #ch5-3, #ch5-4, #ch5-5, #ch6-2, #ch6-3, #ch6-4, #ch6-5 {
     margin-top: 150px;
     margin-bottom: 150px;
     filter: sepia(100%);
