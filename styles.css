@@ -29,7 +29,7 @@ h2 {text-align: center;
 .page1 {
     float: left;
     width: 50%;
-    padding: 10px;
+    padding: 25px;
     word-wrap: normal;
 }
 .row21:after {
@@ -37,4 +37,7 @@ h2 {text-align: center;
     display: table;
     clear: both;
 }
-
+#ch4-1, #ch4-2, #ch4-3, #ch4-4 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
