@@ -12,6 +12,7 @@ body {
 .navbar {
     overflow: hidden;
     position: fixed;
+    background-color: black;
     top: 0;
     width: 100%;
 }
@@ -76,9 +77,15 @@ h2 {text-align: center;
     filter: sepia(100%);
     border-radius: 10%;
 }
-#ch5-1, #ch6-1 {
+#ch5-1 {
     margin-top: 500px;
     margin-bottom: 150px;
+    filter: sepia(100%);
+    border-radius: 10%;
+}
+#ch6-1 {
+    margin-top: 1000px;
+    margin-bottom: 200;
     filter: sepia(100%);
     border-radius: 10%;
 }
