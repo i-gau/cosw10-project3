@@ -9,6 +9,12 @@ body {
     margin-left: 5%;
     margin-right: 5%;
 }
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 h1 {
     text-align: center;
 }
