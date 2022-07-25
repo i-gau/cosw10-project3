@@ -15,12 +15,12 @@ h1 {
 
 h2 {text-align: center;
     font-family: 'Tangerine', cursive;
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .title-chap {
     font-family: 'Tangerine', cursive;
-    font-size: 60px;
+    font-size: 70px;
 }
 .chapter-content {
     text-indent: 50px;
@@ -39,6 +39,9 @@ h2 {text-align: center;
     display: table;
     clear: both;
 }
+.quotes {
+    text-align: center;
+}
 #ch4-1, #ch4-2, #ch4-3, #ch4-4 {
     margin-top: 150px;
     margin-bottom: 150px;
@@ -46,6 +49,11 @@ h2 {text-align: center;
 }
 #ch5-1 {
     margin-top: 200px;
+    margin-bottom: 150px;
+    filter: sepia(100%);
+}
+#ch5-2, #ch5-3, #ch5-4, #ch5-5 {
+    margin-top: 150px;
     margin-bottom: 150px;
     filter: sepia(100%);
 }
