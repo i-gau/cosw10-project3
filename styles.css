@@ -15,13 +15,14 @@ body {
     background-color: black;
     top: 0;
     width: 100%;
+    z-index: 1;
 }
 .navbar a {
     float: left;
     padding: 15px;
     color: yellow;
-    font-family: 'Shippori Mincho B1', serif;
-    font-size: 18px;
+    font-family: 'Tangerine', cursive;
+    font-size: 24px;
     width: 33%;
     text-align: center;
 }
@@ -84,8 +85,8 @@ h2 {text-align: center;
     border-radius: 10%;
 }
 #ch6-1 {
-    margin-top: 1000px;
-    margin-bottom: 200;
+    margin-top: 1500px;
+    margin-bottom: 200px;
     filter: sepia(100%);
     border-radius: 10%;
 }
